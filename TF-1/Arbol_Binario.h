@@ -82,20 +82,26 @@ struct Arbol_Binario {
 		}
 	}
 
-	Nodo<F> *search(F dato, Nodo<F> *leaf) {
-		if (leaf != nullptr) {
-			if (dato == leaf->dato) {
+	Nodo<F> *search(F dato, Nodo<F> *leaf)
+	{
+		if (leaf != nullptr)
+		{
+			if (dato == leaf->dato)
+			{
 				return leaf;
 			}
-			if (dato < leaf->dato) {
+			if (dato < leaf->dato)
+			{
 				return search(dato, leaf->left);
 			}
-			else {
+			else
+			{
 				return search(dato, leaf->right);
 			}
 		}
-		else {
-			return NULL;
+		else
+		{
+			return nullptr;
 		}
 	}
 

@@ -1,0 +1,7 @@
+1 Leo Saman 12 10 M Resn
+2 Ali White 21 9 F Qeu
+3 Leo Ael 9 8 M Enieo
+4 Kei Zimmer 14 11 M Neiro
+5 Ane Leir 18 11 F Koeni
+6 Len Kern 20 13 M Aeiw
+7 Nir Menoe 6 15 F Jeui

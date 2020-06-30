@@ -1,59 +1,140 @@
 ﻿  Source.cpp
-d:\programación\c++\tf-1\tf-1\table.h(187): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(160): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::Consulta(int)'
-  d:\programación\c++\tf-1\tf-1\source.cpp(76): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::Consulta(int)' que se está compilando
-  d:\programación\c++\tf-1\tf-1\source.cpp(9): note: vea la referencia a la creación de instancias de plantilla clase de 'Table<Persona>' que se está compilando
-d:\programación\c++\tf-1\tf-1\table.h(204): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(242): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(259): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(298): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(314): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(330): warning C4018: '<': no coinciden signed/unsigned
-d:\programación\c++\tf-1\tf-1\table.h(152): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(149): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaEdad(int)'
-  d:\programación\c++\tf-1\tf-1\source.cpp(64): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaEdad(int)' que se está compilando
-d:\programación\c++\tf-1\tf-1\table.h(140): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(137): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaApellido(std::string)'
-  d:\programación\c++\tf-1\tf-1\source.cpp(59): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaApellido(std::string)' que se está compilando
-d:\programación\c++\tf-1\tf-1\table.h(128): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(125): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaNombre(std::string)'
-  d:\programación\c++\tf-1\tf-1\source.cpp(54): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaNombre(std::string)' que se está compilando
-d:\programación\c++\tf-1\tf-1\table.h(43): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(41): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::show(void)'
-  d:\programación\c++\tf-1\tf-1\source.cpp(37): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::show(void)' que se está compilando
-d:\programación\c++\tf-1\tf-1\table.h(117): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(115): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnEdades(void)'
+d:\programación\c++\tf-1\tf-1\source.cpp(105): warning C4101: 'sub_menu': variable local sin referencia
+d:\programación\c++\tf-1\tf-1\table.h(800): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(758): note: durante la compilación de la función miembro de plantilla clase de 'Table<Persona> Table<Persona>::ConsultaDoble(void)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(164): note: vea la referencia a la creación de instancias de plantilla de función 'Table<Persona> Table<Persona>::ConsultaDoble(void)' que se está compilando
+  d:\programación\c++\tf-1\tf-1\source.cpp(10): note: vea la referencia a la creación de instancias de plantilla clase de 'Table<Persona>' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(818): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(857): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(875): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(915): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(932): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(949): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(988): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1005): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1022): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1050): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1065): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1103): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1121): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1160): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1178): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1217): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1235): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1275): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1292): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1308): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1347): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1364): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1381): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1408): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1422): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1460): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(1478): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(739): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(729): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::Guardar(void)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(158): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::Guardar(void)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(338): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(309): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::Consulta(int)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(111): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::Consulta(int)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(358): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(396): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(415): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(459): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(478): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(497): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(537): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(555): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(574): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(602): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(618): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(657): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(676): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(717): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(292): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(289): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaNumero(int)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(96): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaNumero(int)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(300): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(272): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(269): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaEdad(int)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(81): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaEdad(int)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(280): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(251): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(248): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaApellido(std::string)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(76): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaApellido(std::string)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(260): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(230): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(227): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaEquipos(std::string)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(91): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaEquipos(std::string)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(239): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(209): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(206): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaGenero(char)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(86): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaGenero(char)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(218): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(188): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(185): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::BusquedaNombre(std::string)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(71): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::BusquedaNombre(std::string)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(197): warning C4018: '<': no coinciden signed/unsigned
+d:\programación\c++\tf-1\tf-1\table.h(41): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(39): note: durante la compilación de la función miembro de plantilla clase de 'void Table<Persona>::show(void)'
+  d:\programación\c++\tf-1\tf-1\source.cpp(47): note: vea la referencia a la creación de instancias de plantilla de función 'void Table<Persona>::show(void)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(178): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(176): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<char,std::allocator<char>> Table<Persona>::getColumnGenero(void)'
+  d:\programación\c++\tf-1\tf-1\table.h(207): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<char,std::allocator<char>> Table<Persona>::getColumnGenero(void)' que se está compilando
+d:\programación\c++\tf-1\tf-1\table.h(169): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(167): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnNumeros(void)'
           with
           [
               _Ty=int
           ]
-  d:\programación\c++\tf-1\tf-1\table.h(150): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnEdades(void)' que se está compilando
+  d:\programación\c++\tf-1\tf-1\table.h(290): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnNumeros(void)' que se está compilando
           with
           [
               _Ty=int
           ]
-d:\programación\c++\tf-1\tf-1\table.h(107): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(105): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnApellidos(void)'
+d:\programación\c++\tf-1\tf-1\table.h(160): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(158): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnEdades(void)'
+          with
+          [
+              _Ty=int
+          ]
+  d:\programación\c++\tf-1\tf-1\table.h(270): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<int,std::allocator<_Ty>> Table<Persona>::getColumnEdades(void)' que se está compilando
+          with
+          [
+              _Ty=int
+          ]
+d:\programación\c++\tf-1\tf-1\table.h(151): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(149): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnEquipos(void)'
           with
           [
               _Ty=std::string
           ]
-  d:\programación\c++\tf-1\tf-1\table.h(138): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnApellidos(void)' que se está compilando
+  d:\programación\c++\tf-1\tf-1\table.h(228): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnEquipos(void)' que se está compilando
           with
           [
               _Ty=std::string
           ]
-d:\programación\c++\tf-1\tf-1\table.h(97): warning C4018: '<': no coinciden signed/unsigned
-  d:\programación\c++\tf-1\tf-1\table.h(95): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnNombres(void)'
+d:\programación\c++\tf-1\tf-1\table.h(142): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(140): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnApellidos(void)'
           with
           [
               _Ty=std::string
           ]
-  d:\programación\c++\tf-1\tf-1\table.h(126): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnNombres(void)' que se está compilando
+  d:\programación\c++\tf-1\tf-1\table.h(249): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnApellidos(void)' que se está compilando
           with
           [
               _Ty=std::string
           ]
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+d:\programación\c++\tf-1\tf-1\table.h(133): warning C4018: '<': no coinciden signed/unsigned
+  d:\programación\c++\tf-1\tf-1\table.h(131): note: durante la compilación de la función miembro de plantilla clase de 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnNombres(void)'
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\programación\c++\tf-1\tf-1\table.h(186): note: vea la referencia a la creación de instancias de plantilla de función 'std::vector<std::string,std::allocator<_Ty>> Table<Persona>::getColumnNombres(void)' que se está compilando
+          with
+          [
+              _Ty=std::string
+          ]
   Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
   TF-1.vcxproj -> D:\Programación\C++\TF-1\Debug\TF-1.exe
